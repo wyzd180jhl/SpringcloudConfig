@@ -2,14 +2,3 @@
 /.idea/
 *.iml
 *.bak
-/config-server/target/
-/config-server/src/test/
-/config-client/target/
-/config-client/src/test/
-/admin/target/
-/admin/src/test/
-/core/src/main/resources/generatorConfig.xml
-/core/src/main/resources/db.properties
-/core/src/main/resources/rebel.xml
-/app/src/main/resources/rebel.xml
-/admin/src/main/resources/rebel.xml
